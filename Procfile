@@ -1,1 +1,1 @@
-web: python alphagit2 
+web: python bot
