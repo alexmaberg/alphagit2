@@ -3,7 +3,6 @@ aiohttp==3.6.2
 aiohttp-socks==0.2.2
 aiorpcX==0.18.3
 ajpy==0.0.4
-alembic==1.0.0.dev0
 aniso8601==4.1.0
 apparmor==2.13.2
 asn1crypto==0.24.0
