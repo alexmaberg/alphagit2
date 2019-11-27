@@ -11,7 +11,7 @@ P_TIMEZONE = pytz.timezone(config.TIMEZONE)
 TIMEZONE_COMMON_NAME = config.TIMEZONE_COMMON_NAME
 
 bot = telebot.TeleBot(config.TOKEN)
-
+exec('listener.py')
 
 @bot.message_handler(commands=['start'])
 def start_command(message):
