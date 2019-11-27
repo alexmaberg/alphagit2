@@ -212,7 +212,7 @@ wapiti3==3.0.1
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.53.0
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 wfuzz==2.3.4
 widgetsnbextension==2.0.0
 wifiphisher==1.4
