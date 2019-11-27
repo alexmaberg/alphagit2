@@ -113,7 +113,7 @@ pbr==4.2.0
 pefile==2018.8.8
 pexpect==4.6.0
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==6.2.0
 plotly==3.6.1
 pluginbase==1.0.0
 ply==3.11
